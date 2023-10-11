@@ -10,6 +10,12 @@ In this project, we employ the latest machine learning techniques, including mul
 - [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 - [Building and Deploying a Machine Learning Web App](https://www.kdnuggets.com/2020/05/build-deploy-machine-learning-web-app.html)
 
+## Project screenshots
+
+![Alt Text](cap1.png)
+
+![Alt Text](cap2.png)
+
 ## Project Progress Tracking
 
 1. **Train a Netflix Stock Price Prediction Regression Model and Save the Model and Preprocessing Pipeline**
